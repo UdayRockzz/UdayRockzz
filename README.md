@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Uday Kumar Surepally. 👋
 
-<!--
-**UdayRockzz/UdayRockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak and Traveller!
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 💬 Ask me about anything, I am happy to help
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play piano and watching movies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[website]: https://aiesrobotix.com
+[youtube]: https://youtube.com/aiesrobotix.com
+[instagram]: https://instagram.com/UdayRockzzz
+[linkedin]: https://linkedin.com/in/UDAYKUMARSUREPALLY
