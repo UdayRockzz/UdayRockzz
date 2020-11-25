@@ -2,6 +2,9 @@
 
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak and Traveller!
+
+**Talking about Personal Stuffs:**
+
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
