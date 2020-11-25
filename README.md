@@ -17,4 +17,4 @@
 [website]: https://aiesrobotix.com
 [youtube]: https://youtube.com/aiesrobotix.com
 [instagram]: https://instagram.com/UdayRockzzz
-[linkedin]: https://linkedin.com/in/UDAYKUMARSUREPALLY
+[linkedin]: https://linkedin.com/in/UDAY KUMAR SUREPALLY
