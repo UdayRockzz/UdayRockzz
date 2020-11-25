@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano and watching movies
 
+### Connect with me:
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
