@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/UdayRockzz/UdayRockzz/blob/main/WALLPOSTER.JPG)
+![Uday Kumar Surepally Banner](https://github.com/UdayRockzz/UdayRockzz/blob/main/WALLPOSTER.JPG)
 ### Hey there, I'm Uday Kumar Surepally 👋
 
 
