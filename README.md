@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="430" />
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +14,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano and watching movies
 
-### Connect with me
+### Connect with me:
 
 [<img align="left" alt="AIESROBOTIX.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AIESROBOTIX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
