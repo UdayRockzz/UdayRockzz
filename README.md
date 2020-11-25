@@ -3,7 +3,7 @@
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!!
 
-<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="440" />
+<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="430" />
 
 **Talking about Personal Stuffs:**
 
