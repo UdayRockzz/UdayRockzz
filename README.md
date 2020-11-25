@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I love to play piano and watching movies
 
 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
