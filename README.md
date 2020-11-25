@@ -2,7 +2,7 @@
 ### Hey there, I'm Uday Kumar Surepally 👋
 
 
-## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!!
+## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!! 😍
 
 <img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="450" />
 
