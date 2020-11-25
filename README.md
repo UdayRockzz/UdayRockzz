@@ -16,23 +16,13 @@
 
 ### Connect with me:
 
-
 [<img align="left" alt="AIESROBOTIX.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AIESROBOTIX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AIESROBOTIX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AIESROBOTIX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AIESROBOTIX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[website]: https://aiesrobotix.com
-[youtube]: https://youtube.com/aiesrobotix.com
-[instagram]: https://instagram.com/UdayRockzzz
-[linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078/
-
-
-
-
-### 🛠 &nbsp;Tech Stack
+***### 🛠 &nbsp;Tech Stack***
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -45,6 +35,11 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
+[website]: https://aiesrobotix.com
+[youtube]: https://youtube.com/aiesrobotix.com
+[instagram]: https://instagram.com/UdayRockzzz
+[linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078
 
 
 [website]: https://aiesrobotix.com
