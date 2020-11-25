@@ -26,19 +26,10 @@
 [youtube]: https://youtube.com/aiesrobotix.com
 [instagram]: https://instagram.com/UdayRockzzz
 [linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078
-
-
-[website]: https://aiesrobotix.com
 [twitter]: https://twitter.com/aiesrobotix
-[youtube]: https://youtube.com/aiesrobotix
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-
 
 ### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
