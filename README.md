@@ -3,6 +3,7 @@
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!
 
+<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="400" />
 
 **Talking about Personal Stuffs:**
 
@@ -19,7 +20,7 @@
 [<img align="left" alt="AIESROBOTIX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AIESROBOTIX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="uday-kumar-surepally-01422078| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="UdayRockzzz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="UdayRockzzz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]\
 
 [website]: https://aiesrobotix.com
 [youtube]: https://youtube.com/aiesrobotix.com
@@ -27,7 +28,6 @@
 [linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078
 [twitter]: https://twitter.com/aiesrobotix
 
-<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="400" />
 
 ### 🛠 &nbsp;Tech Stack
 
