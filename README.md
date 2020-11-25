@@ -25,8 +25,9 @@
 [website]: https://aiesrobotix.com
 [youtube]: https://youtube.com/aiesrobotix.com
 [twitter]: https://twitter.com/aiesrobotix
-[linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078
 [instagram]: https://instagram.com/UdayRockzzz
+[linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078
+
 
 
 ### 🛠 Tech Stack
