@@ -1,9 +1,9 @@
-### Hi there, I'm Uday Kumar Surepally 👋
+### Hey there, I'm Uday Kumar Surepally 👋
 
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
 
 **Talking about Personal Stuffs:**
 
@@ -16,14 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AIESROBOTIX.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AIESROBOTIX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AIESROBOTIX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AIESROBOTIX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AIESROBOTIX | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-***### 🛠 &nbsp;Tech Stack***
-
+### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -45,8 +38,6 @@
 [website]: https://aiesrobotix.com
 [twitter]: https://twitter.com/aiesrobotix
 [youtube]: https://youtube.com/aiesrobotix
-[instagram]: https://instagram.com/aiesrobotix
-[linkedin]: https://linkedin.com/in/aiesrobotix
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
