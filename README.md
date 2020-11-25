@@ -1,4 +1,4 @@
-### Hi there, I'm Uday Kumar Surepally. 👋
+### Hi there, I'm Uday Kumar Surepally 👋
 
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!
