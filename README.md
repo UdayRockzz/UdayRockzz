@@ -3,7 +3,6 @@
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!
 
-<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="400" />
 
 **Talking about Personal Stuffs:**
 
@@ -27,6 +26,8 @@
 [instagram]: https://instagram.com/UdayRockzzz
 [linkedin]: https://linkedin.com/in/uday-kumar-surepally-01422078
 [twitter]: https://twitter.com/aiesrobotix
+
+<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="500" height="400" />
 
 ### 🛠 &nbsp;Tech Stack
 
