@@ -1,4 +1,4 @@
-![Uday Kumar Surepally Banner](https://github.com/UdayRockzz/UdayRockzz/blob/main/WALLPOSTER.JPG)
+![Uday Kumar Surepally Banner](https://github.com/UdayRockzz/UdayRockzz/blob/main/banner.JPG)
 ### Hey there! 👋
 
 
