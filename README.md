@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators and open source projects
 - 💬 Ask me about anything, I am happy to help 👨🏻‍💻
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano and watching movies
