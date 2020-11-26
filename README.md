@@ -1,5 +1,5 @@
 ![Uday Kumar Surepally Banner](https://github.com/UdayRockzz/UdayRockzz/blob/main/WALLPOSTER.JPG)
-### Hey there, I'm Uday Kumar Surepally 👋
+### Hey there! 👋
 
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!! 😍
