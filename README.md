@@ -4,7 +4,7 @@
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!! 😍
 
-<img align="right" alt="GIF" src="./img/code.gif" width="490" height="390"/>
+<img align="right" alt="GIF" src="./img/code.gif" width="490" height="370"/>
 
 ### Talking about Personal Stuffs:
 
@@ -66,7 +66,6 @@
 <img align="left" alt="Labview" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
 
 
-<br/> 
 <br/>
 
 #
