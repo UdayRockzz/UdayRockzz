@@ -3,12 +3,12 @@
 
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!! 😍
-/home/uday22/UdayRockzz/img/code.gif
-<img align="right" alt="GIF" src="./img/code.gif" width="490" height="400"/>
+
+<img align="right" alt="GIF" src="./img/code.gif" width="490" height="390"/>
 
 ### Talking about Personal Stuffs:
 
--  I’m currently working on ROS2 with AI.
+- 🔭 I’m currently working on ROS2 with AI.
 - 🌱 I’m currently learning Jetkins.
 - 👯 I’m looking to collaborate with other content creators and open source projects.
 - 💬 Ask me about anything, I am happy to help 👨🏻‍💻
@@ -25,8 +25,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/UdayRockzzz#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/UdayRockzzz#gh-dark-mode-only)
-
-<br />
 
 #
 ### 🛠 Languages and Tools:
