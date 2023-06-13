@@ -3,8 +3,8 @@
 
 
 ## I'm a Master Student, Developer, Teacher, Photographer, Fitness Freak, and Traveller!!! 😍
-
-<img align="right" alt="GIF" src="https://github.com/UdayRockzz/UdayRockzz/blob/main/code.gif?raw=true" width="490" height="400" />
+/home/uday22/UdayRockzz/img/code.gif
+<img align="right" alt="GIF" src="./img/code.gif" width="490" height="400"/>
 
 ### Talking about Personal Stuffs:
 
@@ -31,41 +31,41 @@
 #
 ### 🛠 Languages and Tools:
 
- <img align="left" alt="Python" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+ <img align="left" alt="Python" width="27" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="C++" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
-<img align="left" alt="C" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
-<img align="left" alt=" Embedded C" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
+<img align="left" alt=" Embedded C" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
         
-<img align="left" alt="Docker" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
+<img align="left" alt="Docker" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
 
-<img align="left" alt="HTML5" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="HTML5" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<img align="left" alt="Git" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
-<img align="left" alt="GitHub" width="28px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="27px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-<img align="left" alt="Premiere pro" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+<img align="left" alt="Premiere pro" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 
-<img align="left" alt="Photoshop" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Photoshop" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
           
-<img align="left" alt="Blender" width="28px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="Blender" width="27px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
           
-<img align="left" alt="Ardinuo" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
+<img align="left" alt="Ardinuo" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
 
-<img align="left" alt="Linux" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
-<img align="left" alt="Raspberrypi" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="Raspberrypi" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
           
-<img align="left" alt="TensorFlow" width="28px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="TensorFlow" width="27px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
           
-<img align="left" alt="OpenCV" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img align="left" alt="OpenCV" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
           
-<img align="left" alt="PyTorch" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="PyTorch" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
           
-<img align="left" alt="Labview" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
+<img align="left" alt="Labview" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
 
 
 <br/> 
